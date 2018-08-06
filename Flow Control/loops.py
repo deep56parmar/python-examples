@@ -10,3 +10,12 @@ for i in range(0,len(numbers)):
     if numbers[i] in '0123546789':
         print(numbers[i], end='')
 
+for state in ['Gujarat', 'Rajasthan', 'Kashmir', 'Kerala']:
+    print('This city is in state ',state)
+
+# range function range(start, stop, steps)
+for i in range(0,100,5):
+    print(i)
+
+
+
