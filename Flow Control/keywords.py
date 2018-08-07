@@ -16,3 +16,11 @@ for item in shoppingList:
     if item == 'eggs':
         break
     print(item)
+
+"""
+Augmented assignment: 
+in iteration if we do a = b + 1 , then python create a variable each time 
+then assign its value. To make it more faster and change directly in value 
+of current one time variable python support using augmented assignment via
+short hand operators. 
+ """

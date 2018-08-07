@@ -1,6 +1,6 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
 # Date :  20/07/2018
-# Flow Control - Loops (For loops, range() function)
+# Flow Control - Loops (For loops, range() function, while loops)
 
 for i in range(1,20):
     print('i is {}'.format(i), end='\t')
@@ -16,6 +16,7 @@ for state in ['Gujarat', 'Rajasthan', 'Kashmir', 'Kerala']:
 # range function range(start, stop, steps)
 for i in range(0,100,5):
     print(i)
-
-
-
+i = 0
+while i<10:
+    print(i)
+    i +=1
