@@ -1,5 +1,4 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
-# Date :  20/07/2018
 # Variables Part 3 (Strings and Function)
 
 age = 22

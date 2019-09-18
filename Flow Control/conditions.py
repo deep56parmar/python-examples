@@ -1,5 +1,4 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
-# Date :  20/07/2018
 # Flow Control - Conditions (if , elif, else) 
 # Other key words ... in , not in , not can be used in conditions
 name = input('Please enter your name: ')

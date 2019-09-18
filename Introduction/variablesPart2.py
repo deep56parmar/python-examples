@@ -1,5 +1,4 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
-# Date :  20/07/2018
 # Variables Part 2 (Strings and in operator)
 
 dog = 'Labradore Black'

@@ -1,5 +1,4 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
-# Date :  20/07/2018
 # Flow Control - Loops (For loops, range() function, while loops)
 
 for i in range(1,20):

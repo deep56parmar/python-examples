@@ -1,5 +1,4 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
-# Date :  09/07/2018
 # Hello World program
 
 print('Hello World !!!') # 'print()' function for printing a string to console. 

@@ -1,5 +1,4 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
-# Date :  20/07/2018
 # Continue , Break keywords
 
 # Continue is used for skipping iteration. 

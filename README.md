@@ -3,7 +3,7 @@ Sample code examples for basic to advance python programming.
 
 ## Python Version Used
 ```
-Python 3.6 
+Python 3.x 
 ```
 
 ## Topics Covered 
