@@ -6,8 +6,7 @@ variable = "Deep"
 Variable = 'Valid'
 _variable = 'Valid'
 variable123 = 'Valid'
-# Valid ways to name a variables. 
-
+# Valid ways to name a variables.
 a = 123
 b = 123 
 print(a + b)

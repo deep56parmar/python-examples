@@ -11,6 +11,7 @@ print(dog[6:]) # From sixth to last charecter
 print(dog[0:10:2]) # From first to tenth with gap of one charecters.
 
 print('Hello' * 5) # Prints Hello 5 times.
-print("day" in 'today') # Returns true as day is substring of today
+print("day" not in 'today') # Returns true as day is substring of today
+
 
 

@@ -1,5 +1,7 @@
 # Created By: Deep Parmar ('deep56parmar@hotmail.com')
 # Hello World program
+# Strongly Typed
+# Dynamicaly Typed
 
 print('Hello World !!!') # 'print()' function for printing a string to console. 
 print(1+2)               # Evaluates expressions.

@@ -19,3 +19,10 @@ i = 0
 while i<10:
     print(i)
     i +=1
+
+a,b = 10,20
+
+print(a,b)
+
+a,b = b,a
+print(a,b)

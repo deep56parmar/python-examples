@@ -15,3 +15,12 @@ Following Topics are covered
 * Variables
 * DataTypes
 * String Formation
+
+### Flow Control With Break and Continue 
+Basics of flow control with break and continue keywords [here](https://github.com/Deep14gecg/python-examples/tree/master/Introduction).
+Following Topics are covered
+* If
+* Else
+* ElseIf(elif)
+* For Loop
+* While Loop
